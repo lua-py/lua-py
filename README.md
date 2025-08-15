@@ -23,5 +23,5 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 
 
 ## 🐍 Snake Game
-![snake gif](https://github.com/lua-py/lua-py/blob/output/github-snake-dark.svg?palette=github-dark)
+![snake gif](https://github.com/eliseufesantos/eliseufesantos/blob/output/github-snake-dark.svg?palette=github-dark)
 
